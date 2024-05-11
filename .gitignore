@@ -2,3 +2,4 @@ cpp/
 ocaml/
 *.pdf
 .DS_Store
+.vscode/
